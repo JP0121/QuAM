@@ -17,6 +17,6 @@ QuAM (Quick Access Menu) is an all-in-one tool designed to help Windows PC users
 
 To get started with QuAM, follow these steps:
 
-1. Download the latest .zip from github.
+1. Download the latest .exe from https://github.com/JP0121/QuAM/releases/latest.
 2. Extract to your desktop or other directory.
 3. Run the QuAM.exe.
